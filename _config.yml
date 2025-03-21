@@ -1,0 +1,4 @@
+title: Kid Learn
+description: SEEX - SEcurity EXtension
+baseurl: "/kidlearn" # Để deploy trên GitHub Pages dưới dạng subdomain
+url: "https://lavanquan.github.io"
